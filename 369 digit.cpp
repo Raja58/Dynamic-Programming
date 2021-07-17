@@ -20,7 +20,6 @@ int getAll369(int idx, int flag, vector<int> &a, vector<int> track)
             return 1;
         return 0;
     }
-
     if(cache[flag][track[1]][track[2]][track[3]][idx] != -1)
         cache[flag][track[1]][track[2]][track[3]][idx];
 
