@@ -1,3 +1,12 @@
+// <!--
+//  ============================
+//  @Author  :        raja_5
+//  @Version :        1.0
+//  @Date    :        08 Nov 2021
+//  @Detail  :        Min number of jumps
+//  ============================
+//  -->
+
 #include <vector>
 using namespace std;
 
