@@ -6,6 +6,7 @@
 //  @Detail  :        digitDP (code Forces)
 //  ============================
 //  -->
+
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
